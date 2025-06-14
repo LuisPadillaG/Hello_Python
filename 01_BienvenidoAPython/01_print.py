@@ -1,6 +1,6 @@
 ###Modulo print es para imprimir en la consola
 #Nos va a acompañar de aquí hasta el infinito
-print("¡Hola gente!")
+print("¡Hola gente, bienvenido a Python!")
 print('Hola "comillas" simples')
 
 print("Python", "Es", "Genial", sep="¿¿¿")
