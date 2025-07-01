@@ -27,3 +27,9 @@ print("str:")
 print("bool:")
 print(type(True))
 print(type(False))
+
+#tambien representa un booleano una comparativa
+print(type(1<2))
+
+print("NoneType:")
+print(type(None))
