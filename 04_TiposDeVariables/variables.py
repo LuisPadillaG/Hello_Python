@@ -30,7 +30,7 @@ n, age, city = "Alberto", 23, "Caracas" # No recomendada forma de asignar variab
 
 # Convenciones de nombres de variable
 mi_nombre_de_variable = "ok"
-
+ 
 MI_CONSTANTE = 31.4 #Las UPPER_CASE se pensaron para constantes, realmente no existen constantes en python, pero allí te informo
 print(MI_CONSTANTE)
 
